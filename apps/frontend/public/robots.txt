@@ -1,0 +1,15 @@
+# NYRA Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nyra.com/sitemap.xml
+
+# Disallow sensitive routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow crawling of public pages
+Allow: /suna/
+
