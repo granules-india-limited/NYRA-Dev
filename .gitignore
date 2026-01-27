@@ -177,3 +177,8 @@ cython_debug/
 *.pdf
 !FEATURES_list.pdf
 !SYSTEM_DOCUMENTATION.pdf
+
+# Markdown files (keep README.md files)
+*.md
+!README.md
+**/README.md
