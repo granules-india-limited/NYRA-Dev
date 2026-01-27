@@ -111,7 +111,7 @@ Each agent can be configured with custom tools, workflows, knowledge bases, and 
 
 ## 🏗️ Platform Architecture
 
-![Architecture Diagram](/docs/diagram.png)
+![Architecture Diagram](docs/images/architecture.png)
 
 Nyra-IQ consists of four main components that work together to provide a complete AI agent development platform:
 
