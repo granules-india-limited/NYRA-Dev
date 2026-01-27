@@ -178,7 +178,8 @@ cython_debug/
 !FEATURES_list.pdf
 !SYSTEM_DOCUMENTATION.pdf
 
-# Markdown files (keep README.md files)
+# Markdown files (keep README.md files and docs/ folder)
 *.md
 !README.md
 **/README.md
+!docs/**/*.md
